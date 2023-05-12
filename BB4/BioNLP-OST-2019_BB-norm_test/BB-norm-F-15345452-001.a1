@@ -1,0 +1,11 @@
+T1	Phenotype 41 55	psychrotrophic
+T2	Microorganism 56 79	Pseudomonas fluorescens
+T3	Phenotype 96 107	proteolytic
+T4	Phenotype 108 111	LAB
+T5	Habitat 179 184	milks
+T6	Habitat 189 196	cheeses
+T7	Microorganism 225 241	Escherichia coli
+T8	Microorganism 243 265	Listeria monocytogenes
+T9	Microorganism 271 292	Staphylococcus aureus
+T10	Habitat 296 305	raw milks
+T11	Habitat 310 317	cheeses

@@ -1,0 +1,17 @@
+T1	Phenotype 34 41;54 68	ability to produce PLA
+T2	Phenotype 50 53	LAB
+T3	Microorganism 96 121	Leuconostoc mesenteroides
+T4	Microorganism 123 146	Lactobacillus plantarum
+T5	Microorganism 148 171	Lactobacillus rhamnosus
+T6	Microorganism 173 203	Lactobacillus sanfranciscensis
+T7	Microorganism 205 230	Lactobacillus acidophilus
+T8	Microorganism 232 258	Lactobacillus alimentarius
+T9	Microorganism 260 284	Lactobacillus amylovorus
+T10	Microorganism 286 305	Lactobacillus casei
+T11	Microorganism 307 327	Lactobacillus lactis
+T12	Microorganism 329 352	Lactobacillus paracasei
+T13	Microorganism 354 375	Lactobacillus reuteri
+T14	Microorganism 381 405	Pediococcus acidilactici
+T15	Phenotype 708 722	PLA production
+T16	Microorganism 745 764	Geotrichum candidum
+T17	Microorganism 801 817	propionibacteria

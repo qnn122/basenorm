@@ -1,0 +1,23 @@
+T1	Habitat 17 38	core Beaufort cheeses
+T2	Habitat 22 38	Beaufort cheeses
+T3	Habitat 90 108	core Comté cheeses
+T4	Habitat 95 108	Comté cheeses
+T5	Habitat 195 214	part of the  cheese
+T6	Habitat 208 214	cheese
+T7	Habitat 298 304	cheese
+T8	Habitat 298 309	cheese core
+T9	Habitat 314 320	cheese
+T10	Habitat 314 328	cheese surface
+T11	Habitat 334 345	cheese core
+T12	Habitat 334 340	cheese
+T13	Phenotype 382 385	LAB
+T14	Microorganism 387 405	Lactococcus lactis
+T15	Microorganism 407 430	Lactobacillus plantarum
+T16	Microorganism 432 457	Leuconostoc mesenteroides
+T17	Microorganism 463 489	Streptococcus thermophilus
+T18	Habitat 504 510	cheese
+T19	Habitat 504 518	cheese surface
+T20	Microorganism 546 559	staphylococci
+T21	Phenotype 564 577	gram-negative
+T22	Microorganism 588 603	Moraxella bovis
+T23	Microorganism 608 623	Pseudomonas sp.

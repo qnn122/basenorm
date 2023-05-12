@@ -1,0 +1,9 @@
+T1	Microorganism 0 31	Pediococcus damnosus  LMG 28219
+T2	Phenotype 37 58	lactic acid bacterium
+T3	Habitat 95 112	Flemish acid beer
+T4	Habitat 165 169	beer
+T5	Habitat 508 512	beer
+T6	Phenotype 552 558;567 578	stress resistances
+T7	Phenotype 563 578	hop resistances
+T8	Phenotype 589 608	folate biosynthesis
+T9	Phenotype 613 647	exopolysaccharide (EPS) production

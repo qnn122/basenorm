@@ -1,0 +1,3 @@
+Some of these analyses are labor intensive, which means that only small
+ numbers of isolates can be analyzed. Using the DGGE method, we 
+identified numerous coryneform species in cheese samples, including Corynebacterium variabile, Corynebacterium mastitidis, Corynebacterium casei, Arthrobacter species, and Brevibacterium linens.

@@ -1,0 +1,10 @@
+Pediococcus damnosus
+ LMG 28219 is a lactic acid bacterium dominating the maturation phase of
+ Flemish acid beer productions. It proved to be capable of growing in 
+beer, thereby resisting this environment, which is unfavorable for 
+microbial growth. The molecular mechanisms underlying its metabolic 
+capabilities and niche adaptations were unknown up to now. In the 
+present study, whole-genome sequencing and comparative genome analysis 
+were used to investigate this strain’s mechanisms to reside in the beer 
+niche, with special focus on not only stress and hop resistances but 
+also folate biosynthesis and exopolysaccharide (EPS) production.

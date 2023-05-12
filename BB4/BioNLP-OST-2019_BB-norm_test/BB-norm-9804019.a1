@@ -1,0 +1,58 @@
+T1	Title 0 54	Aurioscope earpieces--a potential vector of infection?
+T2	Paragraph 55 360	to determine whether non disposable aurioscope earpieces used in community paediatric clinics harbored pathogenic micro-organisms, and to explore primary pediatrician perception of the possibility of cross infection from contaminated aurioscope earpieces and of how their aurioscope earpieced are cleaned.
+T3	Paragraph 361 379	randomized survey.
+T4	Paragraph 380 413	four community pediatric clinics.
+T5	Paragraph 414 1049	42 pediatricians' aurioscope earpieces were cultured on blood agar and mannitol-salt-agar plates by two methods: (1) The earpieces were rolled for 5 s onto blood agar plates (TSA + 5% sheep blood, and a mannitol-salt-agar-plate). (2) The entire surface of the earpiece was swabbed with a sterile cotton tipped applicator moistened in sterile saline solution and was inoculated immediately onto a blood agar plate, and a mannitol-salt-agar-plate. The plates were incubated at 37 degrees C for 48 h and examined for colony growth at 24 and 48 h of incubation. Culture results were recorded as mean numbers of colony-forming units (CFUs).
+T6	Paragraph 1050 1353	36 from 42 (86%) of the aurioscope earpieces were colonized by micro-organisms. Heavily contaminated earpieces were found in six (14%). Staphylococci were isolated from 27 (64%) of the earpieces: 19 (45%) being Staphylococci aureus coagulase positive, 4 (9%) were methicillin resistant S. aureus (MRSA).
+T7	Paragraph 1354 1751	Non disposable earpieces can harbor potentially pathogenic bacteria including MRSA. The increased trend for children with immunodeficiency to be managed in an ambulatory setting, often by physicians who also work in hospital, might be a risk of spreading potentially serious infections to such patients. Non disposable earpieces should be regularly disinfected to minimize the spread of infection.
+T8	Habitat 0 20	Aurioscope earpieces
+T9	Habitat 76 111	non disposable aurioscope earpieces
+T10	Habitat 120 148	community paediatric clinics
+T11	Phenotype 158 168	pathogenic
+T12	Habitat 209 221	pediatrician
+T13	Habitat 276 309	contaminated aurioscope earpieces
+T14	Habitat 327 347	aurioscope earpieced
+T15	Habitat 385 412	community pediatric clinics
+T16	Habitat 417 452	pediatricians' aurioscope earpieces
+T17	Habitat 417 430	pediatricians
+T18	Habitat 470 480;504 510	blood agar plates
+T19	Habitat 470 475	blood
+T20	Habitat 470 480	blood agar
+T21	Habitat 485 510	mannitol-salt-agar plates
+T22	Habitat 485 503	mannitol-salt-agar
+T23	Habitat 535 544	earpieces
+T24	Habitat 570 580	blood agar
+T25	Habitat 570 575	blood
+T26	Habitat 570 587	blood agar plates
+T27	Habitat 598 603	sheep
+T28	Habitat 598 609	sheep blood
+T29	Habitat 617 641	mannitol-salt-agar-plate
+T30	Habitat 617 635	mannitol-salt-agar
+T31	Habitat 674 682	earpiece
+T32	Habitat 702 771	sterile cotton tipped applicator moistened in sterile saline solution
+T33	Habitat 748 771	sterile saline solution
+T34	Habitat 810 820	blood agar
+T35	Habitat 810 815	blood
+T36	Habitat 810 826	blood agar plate
+T37	Habitat 834 858	mannitol-salt-agar-plate
+T38	Habitat 834 852	mannitol-salt-agar
+T39	Habitat 864 870	plates
+T40	Habitat 1074 1094	aurioscope earpieces
+T41	Habitat 1138 1160	contaminated earpieces
+T42	Microorganism 1186 1199	Staphylococci
+T43	Habitat 1235 1244	earpieces
+T44	Microorganism 1261 1281	Staphylococci aureus
+T45	Phenotype 1282 1300	coagulase positive
+T46	Phenotype 1314 1335	methicillin resistant
+T47	Microorganism 1336 1345	S. aureus
+T48	Microorganism 1347 1351	MRSA
+T49	Phenotype 1347 1351	MRSA
+T50	Habitat 1354 1378	Non disposable earpieces
+T51	Phenotype 1402 1412	pathogenic
+T52	Microorganism 1432 1436	MRSA
+T53	Phenotype 1432 1436	MRSA
+T54	Habitat 1462 1492	children with immunodeficiency
+T55	Habitat 1542 1552	physicians
+T56	Habitat 1570 1578	hospital
+T57	Habitat 1648 1656	patients
+T58	Habitat 1658 1682	Non disposable earpieces

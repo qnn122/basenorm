@@ -1,0 +1,41 @@
+T1	Microorganism 107 116	Halomonas
+T2	Habitat 155 196	short-ripened cheeses from all facilities
+T3	Microorganism 240 249	Halomonas
+T4	Habitat 253 267	dairy products
+T5	Microorganism 311 320	Halomonas
+T6	Habitat 383 410	cheese producing facilities
+T7	Habitat 383 389	cheese
+T8	Habitat 519 538	marine environments
+T9	Habitat 554 562	sea salt
+T10	Habitat 554 557	sea
+T11	Habitat 566 572	cheese
+T12	Habitat 566 582	cheese  surfaces
+T13	Microorganism 656 665	Halomonas
+T14	Habitat 670 690	short-ripened cheese
+T15	Habitat 670 696	short-ripened cheese rinds
+T16	Habitat 756 761	brine
+T17	Microorganism 799 808	Halomonas
+T18	Habitat 813 828	VB cheese rinds
+T19	Habitat 813 822	VB cheese
+T20	Habitat 867 873	cheese
+T21	Habitat 901 913	young cheese
+T22	Microorganism 953 962	Halomonas
+T23	Habitat 1003 1005	VB
+T24	Habitat 1015 1022	cheeses
+T25	Microorganism 1023 1042	Coryneform bacteria
+T26	Microorganism 1053 1072	Brevibacterium spp.
+T27	Microorganism 1074 1094	Corynebacterium spp.
+T28	Microorganism 1096 1113	Arthrobacter spp.
+T29	Microorganism 1115 1134	Microbacterium spp.
+T30	Microorganism 1139 1160	Brachybacterium  spp.
+T31	Habitat 1179 1185	cheese
+T32	Phenotype 1208 1229	proteolytic  activity
+T33	Microorganism 1531 1542	coryneforms
+T34	Habitat 1579 1588	VB cheese
+T35	Habitat 1579 1594	VB cheese rinds
+T36	Microorganism 1595 1604	B. linens
+T37	Phenotype 1690 1706	red pigmentation
+T38	Habitat 1710 1727	red-smear cheeses
+T39	Phenotype 1752 1782	production of a red carotenoid
+T40	Habitat 1838 1853	cheese surfaces
+T41	Habitat 1838 1844	cheese

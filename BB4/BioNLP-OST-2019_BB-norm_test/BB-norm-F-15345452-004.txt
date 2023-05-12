@@ -1,0 +1,10 @@
+The Morbier cheese profile includes nine bands, seven of which were assigned by using the species database (Fig. ​(Fig.3A,3A, lane 2). Two bands were directly (unambiguously) assigned to Lactococcus lactis (band f) and Streptococcus thermophilus (band h). The presence of these two species was confirmed by cloning and sequencing of the two corresponding bands (Table ​(Table3).3).
+ The other bands were assigned to several possible comigrating species, 
+and we therefore performed further analyses using specific species 
+primers to identify them (Table ​(Table4).4). For example, the presence of Lactobacillus delbrueckii subsp. lactis in the Morbier cheese (Fig. ​(Fig.3A,3A, lane 2, band e) was confirmed by specific PCR, whereas the comigrating species Staphylococcus saprophyticus was not found (Table ​(Table4).4). Using combination of different specific PCR tests (Table ​(Table4),4), the bands a, b, and d (Fig. ​(Fig.3A,3A, lane 2) were presumably identified as Staphylococcus lentus, Staphylococcus equorum, and Lactobacillus acidophilus. The unassigned band g (Fig. ​(Fig.3A,3A, lane 2) was excised from the gel, cloned, sequenced, and identified as Lactobacillus buchneri (Table ​(Table3);3);
+ its migration profile was confirmed by running two pure strains on 
+TTGE, and then it was added to the reference database. We were unable to
+ identify band c in the data shown in Fig. ​Fig.3A.3A. The strong intensity of the band corresponding to Lactococcus lactis
+ indicates that it is the dominant species in Morbier cheese. Note that 
+band intensities seem to reflect the relative proportion of each species
+ in the total bacterial population (35).TABLE 3.Identification by cloning sequencing of V3 fragments excised from TTGE and DGGE patterns of total microbial community cheesesThe Munster cheese (Fig. ​(Fig.3A,3A, lane 3) sample was characterized by three intense bands, identified as Enterococcus faecalis (band c), Lactococcus lactis (band d), and Streptococcus thermophilus (band e), and two bands of lower intensity, respectively, assigned to Lactobacillus plantarum (band a) and Lactobacillus acidophilus group (band b).

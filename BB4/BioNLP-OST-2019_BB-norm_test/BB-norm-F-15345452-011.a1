@@ -1,0 +1,15 @@
+T1	Microorganism 27 45	Lactococcus lactis
+T2	Microorganism 47 72	Leuconostoc mesenteroides
+T3	Microorganism 78 101	Lactobacillus plantarum
+T4	Habitat 129 146	red smear cheeses
+T5	Habitat 148 155;169 175	Langres cheese
+T6	Habitat 148 155;169 181	Langres cheese cores
+T7	Habitat 160 181	Epoisses cheese cores
+T8	Habitat 160 175	Epoisses cheese
+T9	Microorganism 186 212	Streptococcus thermophilus
+T10	Microorganism 217 256	Lactobacillus delbrueckii subsp. lactis
+T11	Habitat 261 279	Swiss-type cheeses
+T12	Habitat 281 286;300 306	Comté cheese
+T13	Habitat 281 286;300 312	Comté cheese cores
+T14	Habitat 291 306	Beaufort cheese
+T15	Habitat 291 312	Beaufort cheese cores

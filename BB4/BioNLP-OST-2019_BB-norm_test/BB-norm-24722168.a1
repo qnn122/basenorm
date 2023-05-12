@@ -1,0 +1,76 @@
+T1	Title 0 176	Probiotic Lactobacillus rhamnosus GG enhanced Th1 cellular immunity but did not affect antibody responses in a human gut microbiota transplanted neonatal gnotobiotic pig model.
+T2	Paragraph 177 2157	This study aims to establish a human gut microbiota (HGM) transplanted gnotobiotic (Gn) pig model of human rotavirus (HRV) infection and diarrhea, and to verify the dose-effects of probiotics on HRV vaccine-induced immune responses. Our previous studies using the Gn pig model found that probiotics dose-dependently regulated both T cell and B cell immune responses induced by rotavirus vaccines. We generated the HGM transplanted neonatal Gn pigs through daily feeding of neonatal human fecal suspension to germ-free pigs for 3 days starting at 12 hours after birth. We found that attenuated HRV (AttHRV) vaccination conferred similar overall protection against rotavirus diarrhea and virus shedding in Gn pigs and HGM transplanted Gn pigs. HGM promoted the development of the neonatal immune system, as evidenced by the significantly enhanced IFN-γ producing T cell responses and reduction of regulatory T cells and their cytokine production in the AttHRV-vaccinated pigs. The higher dose Lactobacillus rhamnosus GG (LGG) feeding (14 doses, up to 109 colony-forming-unit [CFU]/dose) effectively increased the LGG counts in the HGM Gn pig intestinal contents and significantly enhanced HRV-specific IFN-γ producing T cell responses to the AttHRV vaccine. Lower dose LGG (9 doses, up to 106 CFU/dose) was ineffective. Neither doses of LGG significantly improved the protection rate, HRV-specific IgA and IgG antibody titers in serum, or IgA antibody titers in intestinal contents compared to the AttHRV vaccine alone, suggesting that an even higher dose of LGG is needed to overcome the influence of the microbiota to achieve the immunostimulatory effect in the HGM pigs. This study demonstrated that HGM Gn pig is an applicable animal model for studying immune responses to rotavirus vaccines and can be used for studying interventions (i.e., probiotics and prebiotics) that may enhance the immunogenicity and protective efficacy of vaccines through improving the gut microbiota.
+T3	Phenotype 0 9	Probiotic
+T4	Microorganism 10 36	Lactobacillus rhamnosus GG
+T5	Habitat 46 58	Th1 cellular
+T6	Habitat 111 116	human
+T7	Habitat 111 175	human gut microbiota transplanted neonatal gnotobiotic pig model
+T8	Habitat 111 120	human gut
+T9	Habitat 111 131	human gut microbiota
+T10	Habitat 208 217	human gut
+T11	Habitat 208 213	human
+T12	Habitat 208 274	human gut microbiota (HGM) transplanted gnotobiotic (Gn) pig model
+T13	Habitat 208 234	human gut microbiota (HGM)
+T14	Habitat 230 233	HGM
+T15	Habitat 278 283	human
+T16	Microorganism 278 293	human rotavirus
+T17	Microorganism 295 298	HRV
+T18	Phenotype 358 368	probiotics
+T19	Habitat 372 383	HRV vaccine
+T20	Microorganism 372 375	HRV
+T21	Habitat 441 453	Gn pig model
+T22	Phenotype 465 475	probiotics
+T23	Habitat 508 514	T cell
+T24	Habitat 519 525	B cell
+T25	Habitat 554 572	rotavirus vaccines
+T26	Microorganism 554 563	rotavirus
+T27	Habitat 591 624	HGM transplanted neonatal Gn pigs
+T28	Habitat 591 594	HGM
+T29	Habitat 650 670	neonatal human fecal
+T30	Habitat 650 681	neonatal human fecal suspension
+T31	Habitat 650 664	neonatal human
+T32	Habitat 685 699	germ-free pigs
+T33	Microorganism 770 773	HRV
+T34	Microorganism 775 781	AttHRV
+T35	Microorganism 840 849	rotavirus
+T36	Habitat 881 888	Gn pigs
+T37	Habitat 893 896	HGM
+T38	Habitat 893 917	HGM transplanted Gn pigs
+T39	Habitat 919 922	HGM
+T40	Habitat 955 977	neonatal immune system
+T41	Habitat 1038 1044	T cell
+T42	Habitat 1083 1090	T cells
+T43	Habitat 1128 1150	AttHRV-vaccinated pigs
+T44	Microorganism 1128 1134	AttHRV
+T45	Microorganism 1168 1194	Lactobacillus rhamnosus GG
+T46	Microorganism 1196 1199	LGG
+T47	Microorganism 1288 1291	LGG
+T48	Habitat 1306 1336	HGM Gn pig intestinal contents
+T49	Habitat 1306 1327	HGM Gn pig intestinal
+T50	Habitat 1306 1316	HGM Gn pig
+T51	Habitat 1306 1309	HGM
+T52	Microorganism 1364 1367	HRV
+T53	Habitat 1393 1399	T cell
+T54	Habitat 1417 1431	AttHRV vaccine
+T55	Microorganism 1417 1423	AttHRV
+T56	Microorganism 1444 1447	LGG
+T57	Microorganism 1512 1515	LGG
+T58	Microorganism 1560 1563	HRV
+T59	Habitat 1604 1609	serum
+T60	Habitat 1637 1656	intestinal contents
+T61	Habitat 1637 1647	intestinal
+T62	Habitat 1673 1687	AttHRV vaccine
+T63	Microorganism 1673 1679	AttHRV
+T64	Microorganism 1734 1737	LGG
+T65	Habitat 1781 1791	microbiota
+T66	Habitat 1839 1847	HGM pigs
+T67	Habitat 1839 1842	HGM
+T68	Habitat 1878 1881	HGM
+T69	Habitat 1878 1888	HGM Gn pig
+T70	Habitat 1906 1918	animal model
+T71	Habitat 1952 1970	rotavirus vaccines
+T72	Microorganism 1952 1961	rotavirus
+T73	Phenotype 2021 2031	probiotics
+T74	Habitat 2111 2119	vaccines
+T75	Habitat 2142 2145	gut
+T76	Habitat 2142 2156	gut microbiota

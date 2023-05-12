@@ -1,0 +1,66 @@
+Training Data for BioNLP Open Shared Task 2019 -- Bacteria Biotopes named entity normalization (BB-norm)
+
+
+- Contains 132 documents with manual gold annotations
+
+- For more information about the BB tasks, see:
+
+  https://sites.google.com/view/bb-2019/home
+
+- For format details, please refer to the following address:
+
+  http://2013.bionlp-st.org/file-formats
+
+
+
+
+Contents
+========
+
+  ** `.txt' files: each file contains the text contents of a document. Each document is a PubMed abstract (including the title) or a passage in a full-text document. The `.txt' files are encoded in UTF-8. The name of the files follow either pattern:
+
+        BB-norm-PMID.txt
+	BB-norm-F-PMID-NNN.txt
+
+     the first pattern indicates a PubMed entry (title and abstract),
+     the second pattern indicates a passage in an article full-text,
+     PMID is the PubMed identifier of the document,
+     NNN is the number of the passage in the document.
+
+  ** `.a1' files: for each `.txt' file, the corresponding `.a1' file contains input annotations:
+     title and abstract paragraph boundaries
+     named-entity boundaries (number of unicode characters, starting at 0, from the first entity character to the character after the entity)
+
+
+
+
+
+License
+=======
+
+See the `LICENSE' file.
+
+
+
+History
+=======
+
+18 April 2019, Partial training and development data release
+29 May 2019, Full training and development data release
+
+
+
+
+Authors
+=======
+
+BioNLP Open Shared Task - Bacteria Biotope organizers,
+
+Robert Bossy
+Louise Deléger
+Mouhamadou Ba
+Claire Nédellec
+{firstname}.{lastname}@inra.fr
+
+https://sites.google.com/view/bb-2019/home
+

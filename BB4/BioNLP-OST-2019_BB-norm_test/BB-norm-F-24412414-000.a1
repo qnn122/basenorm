@@ -1,0 +1,17 @@
+T1	Phenotype 18 38	lactic acid bacteria
+T2	Phenotype 40 43	LAB
+T3	Microorganism 66 85	Lactobacillus casei
+T4	Microorganism 89 112	Lactobacillus rhamnosus
+T5	Microorganism 116 139	Lactobacillus fermentum
+T6	Microorganism 143 168	Lactobacillus acidophilus
+T7	Microorganism 172 195	Lactobacillus plantarum
+T8	Microorganism 199 218	Lactobacillus sakei
+T9	Microorganism 226 247	Lactobacillus reuteri
+T10	Phenotype 286 305	antifungal activity
+T11	Habitat 319 323	food
+T12	Microorganism 340 370	Colletotrichum gloeosporioides
+T13	Microorganism 372 388	Botrytis cinerea
+T14	Microorganism 390 410	Penicillium expansum
+T15	Microorganism 416 434	Aspergillus flavus
+T16	Phenotype 447 522	capability to produce the novel antimicrobial compound  3-phenyllactic acid
+T17	Phenotype 643 646	LAB

@@ -1,0 +1,33 @@
+T1	Title 0 146	Pathogenesis of the hyperlipidemia of Gram-negative bacterial sepsis may involve pathomorphological changes in liver sinusoidal endothelial cells.
+T2	Paragraph 147 1551	The Gram-negative bacterium Pseudomonas aeruginosa is one of the most common opportunistic pathogens, especially after liver transplantation. Pathophysiological alterations of liver sinusoidal endothelial cells (LSECs) have far-reaching repercussions on the liver and on metabolism. LSECs are perforated with fenestrations, pores that facilitate the transfer of lipoproteins and macromolecules between blood and hepatocytes. Gram-negative bacterial endotoxin (lipopolysaccharide, LPS) and the P. aeruginosa toxin, pyocyanin, have marked effects on LSECs. Initial loss of LSEC porosity (defenestration) induced by P. aeruginosa pyocyanin and LPS may confer subsequent immune tolerance to circulating bacterial antigens and toxins. This review collates the known immune responses of the liver to Gram-negative bacterial toxins, with a focus on LSECs. Hyperlipidemia is an important response to Gram-negative bacterial sepsis. The mechanisms proposed for sepsis-associated hyperlipidemia include tissue lipoprotein lipase inhibition and upregulated hepatic triglyceride production. In this review, we propose defenestration of the LSECs by bacterial toxins as an additional mechanism for the hyperlipidemia of sepsis. Given the role of LSECs in hyperlipidemia and liver allograft rejection, LSEC changes induced by P. aeruginosa toxins including LPS and pyocyanin may have significant clinical implications.
+T3	Phenotype 0 12	Pathogenesis
+T4	Phenotype 38 51	Gram-negative
+T5	Habitat 111 116	liver
+T6	Habitat 111 145	liver sinusoidal endothelial cells
+T7	Habitat 128 139	endothelial
+T8	Phenotype 151 164	Gram-negative
+T9	Microorganism 175 197	Pseudomonas aeruginosa
+T10	Phenotype 217 247	common opportunistic pathogens
+T11	Habitat 266 271	liver
+T12	Habitat 323 357	liver sinusoidal endothelial cells
+T13	Habitat 323 328	liver
+T14	Habitat 340 351	endothelial
+T15	Habitat 359 364	LSECs
+T16	Habitat 405 410	liver
+T17	Habitat 430 435	LSECs
+T18	Habitat 549 554	blood
+T19	Habitat 559 570	hepatocytes
+T20	Phenotype 572 585	Gram-negative
+T21	Microorganism 640 653	P. aeruginosa
+T22	Habitat 695 700	LSECs
+T23	Habitat 718 722	LSEC
+T24	Microorganism 760 773	P. aeruginosa
+T25	Habitat 932 937	liver
+T26	Phenotype 941 954	Gram-negative
+T27	Habitat 989 994	LSECs
+T28	Phenotype 1039 1052	Gram-negative
+T29	Habitat 1275 1280	LSECs
+T30	Habitat 1380 1385	LSECs
+T31	Habitat 1408 1413	liver
+T32	Habitat 1435 1439	LSEC
+T33	Microorganism 1459 1472	P. aeruginosa

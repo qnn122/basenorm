@@ -1,0 +1,9 @@
+Laboratory experiments indicated that P. damnosus
+ LMG 28219 produces EPS. The ability of a strain to produce EPS is not 
+directly correlated to its ability to reside in beer but probably has 
+importance in biofilm formation [12], thereby enabling persistence in the brewery environment. The EPS produced by P. claussenii ATCC BAA-344T is a high-molecular-mass β-glucan produced by the action of a transmembrane glycosyl transferase (gtf) gene. This gene is located on plasmid pPECL-7, which is not essential for growth in beer [21].
+ The fibrillar polymer consists of a trisaccharide repeating unit with a
+ β-1,3-linked glucose backbone and branches made up of single 
+β-1,2-linked D-glucopyranosyl residues. Walling and colleagues [33] reported a glucosyl transferase gene (dps) in P. damnosus
+ IOEB8801, originating from wine, that produces a linear backbone of 
+3-β-D-glucose-1 moieties.

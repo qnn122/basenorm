@@ -1,0 +1,6 @@
+In this study, 13 lactic acid bacteria (LAB) strains (including 5 Lactobacillus casei, 2 Lactobacillus rhamnosus, 2 Lactobacillus fermentum, 1 Lactobacillus acidophilus, 1 Lactobacillus plantarum, 1 Lactobacillus sakei, and 1 Lactobacillus reuteri species) were assessed for both their antifungal activity against four food spoilage molds (Colletotrichum gloeosporioides, Botrytis cinerea, Penicillium expansum, and Aspergillus flavus)
+ and their capability to produce the novel antimicrobial compound 
+3-phenyllactic acid (PLA). Results demonstrated that all molds were 
+sensitive to varying degrees to the cell-free supernatants (CFS) from 
+LAB fermentations (p < 0.05), with growth 
+inhibitions ranging from 2.65% to 66.82%.

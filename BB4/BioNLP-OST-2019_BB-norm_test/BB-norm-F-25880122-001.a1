@@ -1,0 +1,11 @@
+T1	Habitat 0 10	Laboratory
+T2	Microorganism 38 60	P. damnosus  LMG 28219
+T3	Phenotype 79 86;99 113	ability to produce EPS
+T4	Habitat 170 174	beer
+T5	Habitat 207 214	biofilm
+T6	Phenotype 207 224	biofilm formation
+T7	Habitat 267 274	brewery
+T8	Microorganism 308 335	P. claussenii ATCC BAA-344T
+T9	Habitat 523 527	beer
+T10	Microorganism 784 805	P. damnosus  IOEB8801
+T11	Habitat 824 828	wine

@@ -1,0 +1,14 @@
+T1	Title 0 87	Microbial symbionts of marine invertebrates: opportunities for microbial biotechnology.
+T2	Paragraph 88 857	Marine invertebrates are sources of a diverse array of bioactive metabolites with great potential for development as drugs and research tools. In many cases, microorganisms are known or suspected to be the biosynthetic source of marine invertebrate natural products. The application of molecular microbiology to the study of these relationships will contribute to basic biological knowledge and facilitate biotechnological development of these valuable resources. The bryostatin-producing bryozoan B. neritina and its specific symbiont "Candidatus Endobugula sertula" constitute one promising model system. Another fertile subject for investigation is the listhistid sponges that contain numerous bioactive metabolites, some of which originate from bacterial symbionts.
+T3	Phenotype 0 19	Microbial symbionts
+T4	Habitat 23 29	marine
+T5	Habitat 23 43	marine invertebrates
+T6	Habitat 88 108	Marine invertebrates
+T7	Habitat 88 94	Marine
+T8	Habitat 317 323	marine
+T9	Habitat 317 336	marine invertebrate
+T10	Habitat 556 597	bryostatin-producing bryozoan B. neritina
+T11	Phenotype 615 623	symbiont
+T12	Microorganism 625 654	Candidatus Endobugula sertula
+T13	Habitat 744 762	listhistid sponges
+T14	Phenotype 837 856	bacterial symbionts

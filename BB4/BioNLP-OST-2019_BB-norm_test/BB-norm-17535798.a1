@@ -1,0 +1,30 @@
+T1	Title 0 97	Grazing protozoa and the evolution of the Escherichia coli O157:H7 Shiga toxin-encoding prophage.
+T2	Paragraph 98 1305	Humans play little role in the epidemiology of Escherichia coli O157:H7, a commensal bacterium of cattle. Why then does E. coli O157:H7 code for virulence determinants, like the Shiga toxins (Stxs), responsible for the morbidity and mortality of colonized humans? One possibility is that the virulence of these bacteria to humans is coincidental and these virulence factors evolved for and are maintained for other roles they play in the ecology of these bacteria. Here, we test the hypothesis that the carriage of the Stx-encoding prophage of E. coli O157:H7 increases the rate of survival of E. coli in the presence of grazing protozoa, Tetrahymena pyriformis. In the presence but not the absence of Tetrahymena, the carriage of the Stx-encoding prophage considerably augments the fitness of E. coli K-12 as well as clinical isolates of E. coli O157 by increasing the rate of survival of the bacteria in the food vacuoles of these ciliates. Grazing protozoa in the environment or natural host are likely to play a significant role in the ecology and maintenance of the Stx-encoding prophage of E. coli O157:H7 and may well contribute to the evolution of the virulence of these bacteria to colonize humans.
+T3	Microorganism 42 66	Escherichia coli O157:H7
+T4	Microorganism 67 96	Shiga toxin-encoding prophage
+T5	Habitat 98 104	Humans
+T6	Microorganism 145 169	Escherichia coli O157:H7
+T7	Phenotype 173 182	commensal
+T8	Habitat 196 202	cattle
+T9	Microorganism 218 233	E. coli O157:H7
+T10	Phenotype 243 252	virulence
+T11	Phenotype 317 326;341 360	morbidity of colonized humans
+T12	Phenotype 331 360	mortality of colonized humans
+T13	Habitat 354 360	humans
+T14	Phenotype 390 399	virulence
+T15	Habitat 421 427	humans
+T16	Phenotype 454 463	virulence
+T17	Microorganism 617 638	Stx-encoding prophage
+T18	Microorganism 642 657	E. coli O157:H7
+T19	Microorganism 692 699	E. coli
+T20	Microorganism 737 759	Tetrahymena pyriformis
+T21	Microorganism 800 811	Tetrahymena
+T22	Microorganism 833 854	Stx-encoding prophage
+T23	Microorganism 892 904	E. coli K-12
+T24	Habitat 916 924	clinical
+T25	Microorganism 937 949	E. coli O157
+T26	Microorganism 1031 1039	ciliates
+T27	Microorganism 1169 1190	Stx-encoding prophage
+T28	Microorganism 1194 1209	E. coli O157:H7
+T29	Phenotype 1258 1267	virulence
+T30	Habitat 1298 1304	humans

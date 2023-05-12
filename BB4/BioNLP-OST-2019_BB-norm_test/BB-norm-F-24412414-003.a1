@@ -1,0 +1,32 @@
+T1	Phenotype 36 55	antifungal activity
+T2	Habitat 59 93	filtered broth from 20 LAB strains
+T3	Phenotype 82 85	LAB
+T4	Habitat 107 111	agar
+T5	Microorganism 145 168	L. acidophilus LMG 9433
+T6	Microorganism 170 193	L. amylovorus DSM 20532
+T7	Microorganism 195 213	L. brevis LMG 6906
+T8	Microorganism 215 259	L. coryniformis subsp. coryniformis LMG 9196
+T9	Microorganism 265 286	L. plantarum LMG 6907
+T10	Phenotype 321 358	activity against A. flavus MUCL 19945
+T11	Phenotype 321 337;396 422	activity against Eurotium repens MUCL 15977
+T12	Phenotype 321 337;360 390	activity against Endomyces fibuliger MUCL 11443
+T13	Microorganism 338 358	A. flavus MUCL 19945
+T14	Microorganism 360 390	Endomyces fibuliger MUCL 11443
+T15	Microorganism 396 422	Eurotium repens MUCL 15977
+T16	Phenotype 470 473	LAB
+T17	Microorganism 524 535	P. nordicum
+T18	Phenotype 540 560	ochratoxin producing
+T19	Microorganism 561 572	Penicillium
+T20	Habitat 585 602	malt extract agar
+T21	Microorganism 654 670	L. rhamnosus LGG
+T22	Microorganism 675 692	L. plantarum 299v
+T23	Microorganism 717 728	P. nordicum
+T24	Phenotype 780 783	LAB
+T25	Phenotype 860 879	antifungal activity
+T26	Microorganism 883 905	L. plantarum IMAU10014
+T27	Microorganism 914 924	B. cinerea
+T28	Microorganism 926 946	Glomerella cingulate
+T29	Microorganism 948 971	Phytophthora drechsleri
+T30	Microorganism 973 993	Penicillium citrinum
+T31	Microorganism 995 1007	P. digitatum
+T32	Microorganism 1013 1031	Fusarium oxysporum

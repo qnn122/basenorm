@@ -1,0 +1,88 @@
+Full-text passages
+==================
+
+The copyright of full-text passages are held by their respective owners.
+
+
+
+  BB-norm-F-14624315-000.txt
+  BB-norm-F-14624315-001.txt
+  BB-norm-F-14624315-002.txt
+  BB-norm-F-14624315-003.txt
+  BB-norm-F-14624315-004.txt
+  BB-norm-F-14624315-005.txt
+  BB-norm-F-14624315-006.txt
+  BB-norm-F-14624315-007.txt
+  from
+Smit, Engels, Wouters, Smit. (2004). Diversity of L-leucine catabolism in various microorganisms involved in dairy fermentations, and identification of the rate-controlling step in the formation of the potent flavour component 3-methylbutanal. Applied microbiology and biotechnology. 64(3), pages 396-402.
+
+
+  BB-norm-F-20167385-000.txt
+  BB-norm-F-20167385-001.txt
+  BB-norm-F-20167385-002.txt
+  BB-norm-F-20167385-003.txt
+  BB-norm-F-20167385-004.txt
+  BB-norm-F-20167385-005.txt
+  BB-norm-F-20167385-006.txt
+  BB-norm-F-20167385-007.txt
+  BB-norm-F-20167385-008.txt
+  BB-norm-F-20167385-009.txt
+  BB-norm-F-20167385-010.txt
+  BB-norm-F-20167385-011.txt
+  BB-norm-F-20167385-012.txt
+  BB-norm-F-20167385-013.txt
+  BB-norm-F-20167385-014.txt
+  BB-norm-F-20167385-015.txt
+  from
+Fontana, Cappa, Rebecchi, Cocconcelli. (2010). Surface microbiota analysis of Taleggio, Gorgonzola, Casera, Scimudin and Formaggio di Fossa Italian cheeses. International journal of food microbiology. 138(3), pages 205-11.
+
+
+  BB-norm-F-25036636-000.txt
+  BB-norm-F-25036636-001.txt
+  BB-norm-F-25036636-002.txt
+  BB-norm-F-25036636-003.txt
+  BB-norm-F-25036636-004.txt
+  BB-norm-F-25036636-005.txt
+  from
+Wolfe, Button, Santarelli, Dutton. (2014). Cheese rind communities provide tractable systems for in situ and in vitro studies of microbial diversity. Cell. 158(2), pages 422-433.
+
+
+
+
+PubMed abstracts
+================
+
+Files containing PubMed abstracts are named after the following pattern:
+      BB-norm-PMID.txt
+
+where PMID is the identifier of the corresponding PubMed entry.
+
+PubMed(R) is a database of the U.S. National Library of Medicine (NLM).
+
+NLM data are produced by a U.S. Government agency and include works of the United States Government that are not protected by U.S. copyright law but may be protected by non-US copyright law, as well as abstracts originating from publications that may be protected by U.S. copyright law.
+
+NLM assumes no responsibility or liability associated with use of copyrighted material, including transmitting, reproducing, redistributing, or making commercial use of the data. NLM does not provide legal advice regarding copyright, fair use, or other aspects of intellectual property rights. Persons contemplating any type of transmission or reproduction of copyrighted material such as abstracts are advised to consult legal counsel.
+
+
+
+
+Annotations
+===========
+
+Files ending with the extentions `.a1' and `.a2' contain annotations. 
+
+The annotations were created by the Bibliome group at the Institut National de la Recherche Agronomique (INRA).
+INRA owns the copyright of the annotations contained in the data directories.
+
+Annotations are licensed under the Creative Commons Attribution-NonDerivs 4.0 Unported (CC BY-ND 4.0) license. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+
+
+
+References
+==========
+
+- Bibliome : http://bibliome.jouy.inra.fr/
+- INRA : http://www.inra.fr
+- PubMed : http://www.pubmed.gov/
+- NLM (United States National Library of Medicine) : http://www.nlm.nih.gov/

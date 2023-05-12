@@ -1,0 +1,14 @@
+T1	Microorganism 0 30	Lactobacillus johnsonii FI9785
+T2	Microorganism 85 108	Clostridium perfringens
+T3	Phenotype 119 128	pathogens
+T4	Habitat 132 139	poultry
+T5	Phenotype 234 252	adherence capacity
+T6	Phenotype 256 265	probiotic
+T7	Habitat 282 290	GI tract
+T8	Phenotype 321 329	pathogen
+T9	Phenotype 384 393	probiotic
+T10	Phenotype 430 449	adhesion properties
+T11	Microorganism 486 499	Lactobacillus
+T12	Phenotype 505 544	capable of producing exopolysaccharides
+T13	Phenotype 667 688	formation of biofilms
+T14	Habitat 680 688	biofilms

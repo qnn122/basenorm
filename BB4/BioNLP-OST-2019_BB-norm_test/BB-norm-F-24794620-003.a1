@@ -1,0 +1,27 @@
+T1	Phenotype 63 83	lactic acid bacteria
+T2	Microorganism 122 143	Debaryomyces hansenii
+T3	Microorganism 148 167	Geotrichum candidum
+T4	Habitat 211 225	cheese surface
+T5	Habitat 211 217	cheese
+T6	Phenotype 390 408	coagulase-negative
+T7	Microorganism 409 422	staphylococci
+T8	Microorganism 431 453	Staphylococcus equorum
+T9	Phenotype 458 471	salt-tolerant
+T10	Habitat 458 493	salt-tolerant bacterial communities
+T11	Microorganism 503 514	coryneforms
+T12	Microorganism 525 545	Corynebacterium spp.
+T13	Microorganism 547 564	Arthrobacter spp.
+T14	Microorganism 566 582	Micrococcus spp.
+T15	Microorganism 584 603	Brevibacterium spp.
+T16	Microorganism 608 629	Brachybacterium  spp.
+T17	Habitat 669 699	entire surface of the  cheeses
+T18	Habitat 692 699	cheeses
+T19	Microorganism 701 720	Coryneform bacteria
+T20	Habitat 750 762	cheese rinds
+T21	Habitat 750 756	cheese
+T22	Phenotype 860 873	Gram-negative
+T23	Microorganism 891 905	Halomonas spp.
+T24	Microorganism 907 918	Vibrio spp.
+T25	Microorganism 924 936	Hafnia alvei
+T26	Habitat 959 965	cheese
+T27	Habitat 959 974	cheese surfaces

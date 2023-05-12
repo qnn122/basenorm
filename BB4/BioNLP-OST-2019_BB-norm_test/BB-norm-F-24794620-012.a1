@@ -1,0 +1,17 @@
+T1	Microorganism 15 37	Staphylococcus equorum
+T2	Phenotype 68 86	coagulase-negative
+T3	Microorganism 87 100	staphylococci
+T4	Habitat 109 141	surfaces of long-ripened cheeses
+T5	Habitat 121 141	long-ripened cheeses
+T6	Microorganism 219 229	S. equorum
+T7	Habitat 306 313	cheeses
+T8	Microorganism 397 410	Staphylococci
+T9	Microorganism 473 498	S. equorum strain WS 2733
+T10	Habitat 553 579	surface of Raclette cheese
+T11	Habitat 564 579	Raclette cheese
+T12	Microorganism 610 626	L. monocytogenes
+T13	Microorganism 689 699	S. equorum
+T14	Habitat 711 730	long-ripened cheese
+T15	Habitat 711 754	long-ripened cheese rinds of all facilities
+T16	Habitat 769 806	younger cheeses of ripening cellar A1
+T17	Habitat 788 803	ripening cellar

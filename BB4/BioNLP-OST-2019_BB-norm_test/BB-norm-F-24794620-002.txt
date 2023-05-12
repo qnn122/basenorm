@@ -1,0 +1,6 @@
+Bacterial OTUs belonged to four different phyla.
+ Most OTUs were affiliated to genera often found in cheese, including 
+high numbers of coryneforms. The most abundant OTU from 16S rRNA gene 
+libraries showed highest similarity to Halomonas. Young cheese rinds were dominated by Actinobacteria or Proteobacteria, particularly by Halomonas and Brevibacterium aurantiacum, while Staphyloccocus equorum was most abundant in old cheeses. The most abundant 18S rRNA OTU had highest similarity to the filamentous fungus Scopulariopsis brevicaulis.
+ Pairwise correlation analyses revealed putative co-occurrences between a
+ number of OTUs.

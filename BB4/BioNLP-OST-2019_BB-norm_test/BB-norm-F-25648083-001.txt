@@ -1,0 +1,11 @@
+L. johnsonii FI9785 was able to produce biofilms on glass tubes (Additional file 1: Figure S1A) and on sterile microscope slides under aerobic conditions (Additional file 1:
+ Figure S1B). We also tested microaerobic and anaerobic conditions, 
+which would be encountered in the GI tract, and found that oxygen 
+limitation did not affect the biofilm formation on sterile microscope 
+slide surfaces (data not shown). Biofilm formation was also seen in 
+polystyrene 96 well plates using crystal violet, and this method was 
+selected to measure variations in biofilms between wild type and mutant 
+strains to investigate the effect of EPS production on biofilm formation
+ (Figure 2). Comparison of L. johnsonii FI9785 with the well-known probiotic strain L. rhamnosus
+ GG indicated that biofilm formation of these two strains was quite 
+similar.

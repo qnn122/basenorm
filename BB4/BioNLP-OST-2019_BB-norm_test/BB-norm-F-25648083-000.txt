@@ -1,0 +1,6 @@
+Lactobacillus johnsonii FI9785 is a potential competitive exclusion agent to control Clostridium perfringens and other pathogens in poultry [4].
+ However, the mode of action related to this protective effect is as yet
+ undefined. The adherence capacity of probiotic bacteria to the GI tract
+ is a contributing factor for pathogen exclusion [5] and the cell surface characteristics of probiotic bacteria have been related to these adhesion properties [6-9]. Several members of the genus Lactobacillus
+ are capable of producing exopolysaccharides (EPS) which can play an 
+essential role in determining the cell surface characteristics [7]. EPS are also involved in the formation of biofilms [10,11], which may improve colonisation and aid survival [12-14].
