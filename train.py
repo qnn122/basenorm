@@ -1,6 +1,7 @@
 import argparse
 from src.dataset import load_bb4_data
 from src.trainer import BB4NormTrainer
+#from src.trainer_old import BB4NormTrainer
 from src.utils import accuracy
 
 def main(args):
@@ -58,7 +59,8 @@ if __name__ == "__main__":
         help="The maximum total input sequence length after tokenization.",
     )
 
-    parser.add_argument("--do_train", action="store_true", help="Whether to run training.")
+    #parser.add_argument("--do_train", action="store_true", help="Whether to run training.")
+    parser.add_argument("--do_train", default=True, action="store_true", help="Whether to run training.")
     parser.add_argument("--do_eval", action="store_true", help="Whether to run eval on the test set.")
     parser.add_argument("--no_cuda", action="store_true", help="Avoid using CUDA when available")
 

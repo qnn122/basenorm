@@ -7,7 +7,7 @@ from tqdm import tqdm
 import numpy as np
 
 from src.dataset import Dataset
-from src.model import NeuralNetwork, BertWithCustomNNClassifier
+from src.model import NeuralNetwork
 
 
 class BB4NormTrainer(object):
@@ -17,9 +17,8 @@ class BB4NormTrainer(object):
 		
 		# Load models
 		self.device = "cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu"
-		#self.model = AutoModel.from_pretrained(args.model_name).to(self.device)
-		#self.basenorm = NeuralNetwork(args.embbed_size).to(self.device)
-		self.model = BertWithCustomNNClassifier(args.embbed_size, args.model_name).to(self.device)
+		self.model = AutoModel.from_pretrained(args.model_name).to(self.device)
+		self.basenorm = NeuralNetwork(args.embbed_size).to(self.device)
 
 		# Load datasets (models are needed to make data loaders)
 		X_train, y_train = self.mk_set(train_dataset, ref_dataset, self.tokenizer)
@@ -34,8 +33,8 @@ class BB4NormTrainer(object):
 		self.test_dataloader = DataLoader(test_set, batch_size=len(test_set), shuffle=False)
 		self.num_training_steps = args.epochs * len(self.train_dataloader)
 
-	def train(self, if_freeze_bert=True):
-		optimizer = torch.optim.AdamW(self.model.parameters(), lr=self.args.learning_rate)
+	def train(self):
+		optimizer = torch.optim.AdamW(self.basenorm.parameters(), lr=self.args.learning_rate)
 
 		loss_fn = cos_dist
 		lr_scheduler = get_scheduler(
@@ -43,9 +42,7 @@ class BB4NormTrainer(object):
 		)
 
 		#Training loop
-		#self.basenorm.train()
-		self.model.train()
-		self.model.freeze_bert() if if_freeze_bert else self.model.unfreeze_bert()
+		self.basenorm.train()
 		
 		# loop over using tqdm process bar, put loss at the end of progress bar
 		tepoch = tqdm(range(self.args.epochs))
@@ -54,8 +51,8 @@ class BB4NormTrainer(object):
 			for X, y in self.train_dataloader: # both X and y contains n=batch_size mentions and labels embeddings respectively
 				batch_loss = None
 				for mention, label in zip(X, y):
-					pred = self.model(mention) # Single linear layer
-					ground_truth = self.model(label)
+					pred = self.basenorm(mention) # Single linear layer
+					ground_truth = self.basenorm(label)
 					loss = loss_fn(pred, ground_truth) # Cosine similarity between embedding of mention and associated label.
 					if batch_loss == None:
 						batch_loss = loss.reshape(1,1)
@@ -82,18 +79,17 @@ class BB4NormTrainer(object):
 		nbLabtags = 0
 		dd_conceptVectors = dict()
 		embbed_size = None
-		self.model.eval()
 		with torch.no_grad():
 			for cui in tqdm(dd_ref.keys(), desc='Building embeddings from ontology labels'):
 				dd_conceptVectors[cui] = dict()
-				dd_conceptVectors[cui][dd_ref[cui]["label"]] = self.model(self.tokenize(dd_ref[cui]['label'])).cpu().detach().numpy()# The last hidden-state is the first element of the output tuple
+				dd_conceptVectors[cui][dd_ref[cui]["label"]] = self.basenorm(self.model(self.tokenize(dd_ref[cui]['label']))[0][:,0]).cpu().detach().numpy()# The last hidden-state is the first element of the output tuple
 				nbLabtags += 1
 				if embbed_size == None:
 					embbed_size = len(dd_conceptVectors[cui][dd_ref[cui]["label"]][0])
 				if dd_ref[cui]["tags"]:
 					for tag in dd_ref[cui]["tags"]:
 						nbLabtags += 1
-						dd_conceptVectors[cui][tag] = self.model(self.tokenize(tag)).cpu().detach().numpy()
+						dd_conceptVectors[cui][tag] = self.basenorm(self.model(self.tokenize(tag))[0][:,0]).cpu().detach().numpy()
 
 		print("Number of concepts in ontology:", len(dd_ref.keys()))
 		print("Number of labels in ontology:", nbLabtags)
@@ -106,7 +102,7 @@ class BB4NormTrainer(object):
 		with torch.no_grad():
 			for i, id in tqdm(enumerate(dd_test.keys()), desc ='Building embeddings from test labels'):
 				tokenized_mention = torch.tensor(self.tokenize(dd_test[id]['mention']).to(self.device))
-				X_pred[i] = self.model(tokenized_mention).cpu().detach().numpy()
+				X_pred[i] = self.basenorm(self.model(tokenized_mention)[0][:,0]).cpu().detach().numpy()
 
 		######
 		# Nearest neighbours calculation:
@@ -155,14 +151,12 @@ class BB4NormTrainer(object):
 		y = dict()
 		with torch.no_grad():
 			for i, id in enumerate(dataset.keys()):
-				X[i] = self.tokenize(dataset[id]['mention'])
-				y[i] = self.tokenize(concept_dict[dataset[id]['cui'][0]]['label'])
-				'''
-				X[i] = tokenizer.encode(dataset[id]['mention'], padding="max_length", max_length=self.args.max_length, 
-										truncation=True, add_special_tokens = True, return_tensors="pt").to(self.device)
-				y[i] = tokenizer.encode(concept_dict[dataset[id]['cui'][0]]['label'], padding="max_length", max_length=self.args.max_length, 
-										truncation=True, add_special_tokens = True, return_tensors="pt").to(self.device)
-				'''
+				tokens = tokenizer.encode(dataset[id]['mention'], padding="max_length", max_length=self.args.max_length,
+											truncation=True, add_special_tokens = True, return_tensors="pt").to(self.device)
+				X[i] = self.model(tokens)[0][:,0]
+				y[i] = self.model(tokenizer.encode(
+										concept_dict[dataset[id]['cui'][0]]['label'], padding="max_length", max_length=self.args.max_length, 
+										truncation=True, add_special_tokens = True, return_tensors="pt").to(self.device))[0][:,0]
 			nbMentions = len(X.keys())
 		print("Number of mentions:", nbMentions)
 		return X, y
